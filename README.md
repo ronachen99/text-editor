@@ -24,13 +24,13 @@ The goal of this text editor is to develop an application that enable users to c
 
 Application Preview:
 
-![User going through the text editor, adding text and installing, and starting over.](./assets/app.gif)
+![User going through the text editor, adding text and installing, and starting over.](./assets/images/JATE.gif)
 
 <br>
 
 ## Deployed Site
 
-Deployed Site on Heroku:
+Deployed Site on Heroku: https://true-eh-50457-36af104168a4.herokuapp.com/
 
 <br>
 
